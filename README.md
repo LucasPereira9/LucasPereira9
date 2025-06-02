@@ -64,7 +64,7 @@
 Alguns dos projetos que mais me orgulho:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=HPworld&theme=dracula" alt="Meu Portfólio Pessoal" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=Books_Tracker&theme=dracula" alt="Meu Portfólio Pessoal" />
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula" alt="Aplicação E-commerce React" />
   
