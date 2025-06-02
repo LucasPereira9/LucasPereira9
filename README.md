@@ -62,7 +62,7 @@
 
 <h1 align="center">Projetos em Destaque 🌟</h1>
 
-Alguns dos projetos que mais me orgulho ou que representam minhas habilidades:
+Alguns dos projetos que mais me aventurei:
 
 <p align="center">
   <table>
