@@ -28,9 +28,10 @@
 ---
 
 ---
-### Minhas Habilidades e Ferramentas 🛠️
-
-Aqui estão algumas das tecnologias que eu utilizo no meu dia a dia:
+<div align="center">
+  <h1 align="center">Olá! 👋 Bem vindo ao meu mundo dev</h1>
+  <p>Aqui estão algumas das tecnologias que eu utilizo no meu dia a dia:</p>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,redux,styledcomponents" alt="Habilidades Frontend" />
