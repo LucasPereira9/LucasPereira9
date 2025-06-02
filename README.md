@@ -1,7 +1,7 @@
-Olá! 👋 Lucas Almeida aqui
+### Olá! 👋 Bem vindo ao meu mundo dev
 <p align="center">
   <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzIzd2tmeXB2cjZqbDAxZWE5NngwOHdoNG1yMTg4azJndWJjeXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Olá, eu sou Lucas Almeida!" width="300"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03aTZ5OXo3enh0bWw5bDNnbWNtM3YwbWg4d3YwNmxvMjBmb3gzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMURBbyUqF0XQI/giphy.gif" alt="Olá, eu sou Lucas Almeida!" width="300"/>
   </a>
 </p>
 
