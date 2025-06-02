@@ -29,7 +29,7 @@
 
 ---
 
-### Minhas Habilidades e Ferramentas 🛠️
+ <h1 align="center">Minhas Habilidades e Ferramentas 🛠️</h1>
 
 <div align="center">
   <p>Aqui estão algumas das tecnologias que eu utilizo no meu dia a dia:</p>
@@ -50,7 +50,7 @@
 
 ---
 
-### Minhas Estatísticas no GitHub 📈
+<h1 align="center">Minhas Estatísticas no GitHub 📈</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereira9&layout=compact&theme=dracula" alt="Principais Linguagens de Lucas" width="49%"/>
