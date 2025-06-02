@@ -52,8 +52,19 @@
 
 ### Minhas Estatísticas no GitHub 📈
 
-Aqui estão algumas das minhas estatísticas no GitHub.
+<div align="center">
+  <p>Aqui estão algumas das minhas estatísticas no GitHub. Elas refletem meu engajamento e as linguagens que mais utilizo.</p>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas" width="49%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula" alt="Principais Linguagens de Lucas" width="49%"/>
+
+  <br/><br/> <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO_GITHUB&theme=dracula" alt="Sequência de Contribuições de Lucas" width="49%"/>
+  
+  para ativar depois de configurar o Action -->
+  </div>
+
+---
 
 ### Projetos em Destaque 🌟
 
