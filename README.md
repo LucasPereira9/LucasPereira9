@@ -1,10 +1,32 @@
-<h2 align="center">Olá! 👋 Bem Vindo ao meu Mundo Dev</h2>
-<p align="center">
-  <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03aTZ5OXo3enh0bWw5bDNnbWNtM3YwbWg4d3YwNmxvMjBmb3gzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMURBbyUqF0XQI/giphy.gif" alt="Olá, eu sou Lucas Almeida!" width="300"/>
-  </a>
-</p>
+<h1 align="center">Olá! 👋 Bem vindo ao meu mundo dev</h1>
 
+---
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>Sobre Mim</h2>
+      <p>
+        Sou Lucas Almeida, um desenvolvedor apaixonado por <b>[sua área de atuação - ex: desenvolvimento web, mobile, etc.]</b>. Tenho experiência em <b>[mencione algumas tecnologias principais, ex: React, Node.js, Python]</b> e gosto de transformar ideias em soluções funcionais e eficientes.
+      </p>
+      <p>
+        Atualmente, estou focado em <b>[seus focos atuais - ex: aprimorar minhas habilidades em Machine Learning, construir projetos open source, explorar novas arquiteturas de software, etc.]</b>. Adoro desafios e estou sempre buscando aprender e aplicar novas tecnologias.
+      </p>
+      <p>
+        Sinta-se à vontade para explorar meus repositórios e projetos!
+      </p>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt" target="_blank">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03aTZ5OXo3enh0bWw5bDNnbWNtM3YwbWg4d3YwNmxvMjBmb3gzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMURBbyUqF0XQI/giphy.gif" alt="Lucas Almeida - Portfólio" width="250"/>
+      </a>
+      <br>
+      <i>Clique no GIF para visitar meu portfólio!</i>
+    </td>
+  </tr>
+</table>
+
+---
 ### Minhas Habilidades e Ferramentas 🛠️
 
 Aqui estão algumas das tecnologias que eu utilizo no meu dia a dia:
