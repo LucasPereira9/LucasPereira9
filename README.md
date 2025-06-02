@@ -68,7 +68,9 @@ Alguns dos projetos que mais me orgulho:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=Books_Tracker&theme=dracula" alt="Livros | Books Tracker" />
   </a>
 
-
+  <a href="https://github.com/LucasPereira9/personalPortfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula" alt="Meu Portfólio Pessoal" />
+  </a>
   
   <a href="https://github.com/LucasPereira9/projeto_Encanto" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=projeto_Encanto&theme=dracula" alt="Projeto Encanto" />
