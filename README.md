@@ -50,7 +50,7 @@
 
 ---
 
-<h1 align="center">Minhas Estatísticas no GitHub 📈</h1>
+<h1 align="center">Algumas Estatísticas do meu universo 📈</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereira9&layout=compact&theme=dracula" alt="Principais Linguagens de Lucas" width="49%"/>
@@ -59,10 +59,20 @@
   </div>
 ---
 
-### Projetos em Destaque 🌟
+<h1 align="center">Projetos em Destaque 🌟</h1>
 
-Alguns dos projetos que mais me orgulho ou que representam minhas habilidades:
+Alguns dos projetos que mais me orgulho:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=HPworld&theme=dracula" alt="Meu Portfólio Pessoal" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula" alt="Aplicação E-commerce React" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=projeto_Encanto&theme=dracula" alt="API com Node.js e Express" />
+  
+  </p>
+
+---
 
 ### Como me encontrar 📬
 
