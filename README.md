@@ -1,12 +1,11 @@
+## Olá! 👋 Lucas Almeida aqui
+
 <p align="center">
   <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzIzd2tmeXB2cjZqbDAxZWE5NngwOHdoNG1yMTg4azJndWJjeXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Olá, eu sou Lucas Almeida!" width="300"/>
   </a>
 </p>
 
----
-
-## Olá! 👋 Sou Lucas Almeida
 ### Minhas Habilidades e Ferramentas 🛠️
 
 Aqui estão algumas das tecnologias que eu utilizo no meu dia a dia:
