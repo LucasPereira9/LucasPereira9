@@ -5,10 +5,10 @@
     <td valign="top" width="60%">
       <h2>Sobre Mim</h2>
       <p>
-        Sou Lucas Almeida, um desenvolvedor apaixonado por <b>[sua área de atuação - ex: desenvolvimento web, mobile, etc.]</b>. Tenho experiência em <b>[mencione algumas tecnologias principais, ex: React, Node.js, Python]</b> e gosto de transformar ideias em soluções funcionais e eficientes.
+        Lucas Almeida aqui! Desenvolvedor com 5 anos de experiência em web e mobile, movido pela curiosidade e pelo prazer de encarar desafios. Cada projeto é uma chance de aprender e deixar minha marca.
       </p>
       <p>
-        Atualmente, estou focado em <b>[seus focos atuais - ex: aprimorar minhas habilidades em Machine Learning, construir projetos open source, explorar novas arquiteturas de software, etc.]</b>. Adoro desafios e estou sempre buscando aprender e aplicar novas tecnologias.
+       Atualmente, meu foco se divide entre o Next.js para web, onde busco aprimorar rotinas de desenvolvimento, e o Kotlin no mobile, explorando sua versatilidade para criar experiências nativas e otimizar processos.
       </p>
       <p>
         Sinta-se à vontade para explorar meus repositórios e projetos!
