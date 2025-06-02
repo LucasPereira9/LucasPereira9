@@ -67,17 +67,17 @@ Alguns dos projetos que mais me orgulho ou que representam minhas habilidades:
 <p align="center">
   <table>
     <tr>
-      <td valign="top" width="55%" align="center">
+      <td valign="top" width="33%" align="center">
         <a href="https://github.com/LucasPereira9/Books_Tracker" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=Books_Tracker&theme=dracula&width=400" alt="Livros | Books Tracker" />
         </a>
       </td>
-      <td valign="top" width="55%" align="center">
+      <td valign="top" width="33%" align="center">
         <a href="https://github.com/LucasPereira9/personalPortfolio" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula&width=400" alt="Meu Portfólio Pessoal" />
         </a>
       </td>
-      <td valign="top" width="56%" align="center">
+      <td valign="top" width="34%" align="center">
         <a href="https://github.com/LucasPereira9/projeto_Encanto" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=projeto_Encanto&theme=dracula&width=400" alt="Projeto Encanto" />
         </a>
