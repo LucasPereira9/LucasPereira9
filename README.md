@@ -1,7 +1,5 @@
 <h1 align="center">Olá! 👋 Bem vindo ao meu mundo dev</h1>
 
----
-
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -19,9 +17,9 @@
     <td valign="top" width="40%" align="center">
       <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt" target="_blank">
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03aTZ5OXo3enh0bWw5bDNnbWNtM3YwbWg4d3YwNmxvMjBmb3gzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMURBbyUqF0XQI/giphy.gif" alt="Lucas Almeida - Portfólio" width="250"/>
+      <i>Clique para visitar meu portfólio!</i>
       </a>
       <br>
-      <i>Clique no GIF para visitar meu portfólio!</i>
     </td>
   </tr>
 </table>
