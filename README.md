@@ -64,13 +64,18 @@
 Alguns dos projetos que mais me orgulho:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=Books_Tracker&theme=dracula" alt="Meu Portfólio Pessoal" />
+  <a href="https://github.com/LucasPereira9/Books_Tracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=Books_Tracker&theme=dracula" alt="Livros | Books Tracker" />
+  </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula" alt="Aplicação E-commerce React" />
+  <a href="https://github.com/LucasPereira9/personalPortfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula" alt="Meu Portfólio Pessoal" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=projeto_Encanto&theme=dracula" alt="API com Node.js e Express" />
-  
-  </p>
+  <a href="https://github.com/LucasPereira9/projeto_Encanto" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=projeto_Encanto&theme=dracula" alt="Projeto Encanto" />
+  </a>
+</p>
 
 ---
 
