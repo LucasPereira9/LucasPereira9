@@ -59,22 +59,27 @@
   </div>
 ---
 
-<h1 align="center">Projetos em Destaque 🌟</h1>
+### Projetos em Destaque 🌟
 
-Alguns dos projetos que mais me orgulho:
+Alguns dos projetos que mais me orgulho ou que representam minhas habilidades:
 
 <p align="center">
-  <a href="https://github.com/LucasPereira9/Books_Tracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=Books_Tracker&theme=dracula" alt="Livros | Books Tracker" />
-  </a>
-
-  <a href="https://github.com/LucasPereira9/personalPortfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula" alt="Meu Portfólio Pessoal" />
-  </a>
-  
-  <a href="https://github.com/LucasPereira9/projeto_Encanto" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=projeto_Encanto&theme=dracula" alt="Projeto Encanto" />
-  </a>
+  <table>
+    <tr>
+      <td valign="top" width="33%"> <a href="https://github.com/LucasPereira9/Books_Tracker" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=Books_Tracker&theme=dracula" alt="Livros | Books Tracker" />
+        </a>
+      </td>
+      <td valign="top" width="33%"> <a href="https://github.com/LucasPereira9/personalPortfolio" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=personalPortfolio&theme=dracula" alt="Meu Portfólio Pessoal" />
+        </a>
+      </td>
+      <td valign="top" width="34%"> <a href="https://github.com/LucasPereira9/projeto_Encanto" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPereira9&repo=projeto_Encanto&theme=dracula" alt="Projeto Encanto" />
+        </a>
+      </td>
+    </tr>
+    </table>
 </p>
 
 ---
