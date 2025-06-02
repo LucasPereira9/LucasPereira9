@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="LINK_DO_SEU_SITE_OU_PORTFOLIO">
-    <img src="[https://media.giphy.com/media/Q81NCSZgDk8t5Kz2fN/giphy.gif](https://media.giphy.com/media/Q81NCSZgDk8t5Kz2fN/giphy.gif)" alt="Olá, eu sou Lucas Almeida!" width="300"/>
+  <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt">
+    <img src="https://media.giphy.com/media/Q81NCSZgDk8t5Kz2fN/giphy.gif" alt="Olá, eu sou Lucas Almeida!" width="300"/>
   </a>
 </p>
 
