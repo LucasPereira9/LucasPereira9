@@ -88,9 +88,9 @@ Alguns dos projetos que mais me aventurei:
 
 ---
 
-### Como me encontrar 📬
+<h1 align="center">Como me encontrar 📬</h1>
 
-Adoraria me conectar com você! Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais.
+Sinta-se à vontade para entrar em contato.
 
 <p align="center">
   <a href="https://linkedin.com/in/lucas-almeida-5280b9206" target="_blank">
