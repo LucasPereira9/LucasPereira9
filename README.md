@@ -33,7 +33,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,redux,styledcomponents" alt="Habilidades Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,styledcomponents" alt="Habilidades Frontend" />
   <br> <img src="https://skillicons.dev/icons?i=nodejs,python,django,graphql,firebase,postgresql,mysql" alt="Habilidades Backend e Banco de Dados" />
   <br> <img src="https://skillicons.dev/icons?i=swift,kotlin" alt="Habilidades Mobile Nativas" />
   <br> <img src="https://skillicons.dev/icons?i=git,docker" alt="Ferramentas" />
