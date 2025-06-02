@@ -29,7 +29,6 @@
 
 ---
 <div align="center">
-  <h1 align="center">Olá! 👋 Bem vindo ao meu mundo dev</h1>
   <p>Aqui estão algumas das tecnologias que eu utilizo no meu dia a dia:</p>
 </div>
 
