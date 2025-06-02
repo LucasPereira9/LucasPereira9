@@ -52,14 +52,9 @@
 
 ### Minhas Estatísticas no GitHub 📈
 
-<div align="center">
-  <p>Aqui estão algumas das minhas estatísticas no GitHub. Elas refletem meu engajamento e as linguagens que mais utilizo.</p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasPereira9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do GitHub de Lucas" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereira9&layout=compact&theme=dracula" alt="Principais Linguagens de Lucas" width="49%"/>
-
-  <br/><br/> <img src="https://streak-stats.demolab.com/?user=LucasPereira9&theme=dracula" alt="Sequência de Contribuições de Lucas" width="49%"/>
-  
+  <div align="center
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereira9&layout=compact&theme=dracula" alt="Principais Linguagens de Lucas" width="49%"/>
+    <img src="https://streak-stats.demolab.com/?user=LucasPereira9&theme=dracula" alt="Sequência de Contribuições de Lucas" width="49%"/>
   </div>
 
 ---
