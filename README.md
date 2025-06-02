@@ -93,13 +93,15 @@ Alguns dos projetos que mais me aventurei:
 Adoraria me conectar com você! Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais.
 
 <p align="center">
-  <a href="[https://linkedin.com/in/SEU_USUARIO_LINKEDIN](https://linkedin.com/in/SEU_USUARIO_LINKEDIN)" target="_blank">
-    <img src="[https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
+  <a href="https://linkedin.com/in/lucas-almeida-5280b9206" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://twitter.com/SEU_USUARIO_TWITTER](https://twitter.com/SEU_USUARIO_TWITTER)" target="_blank">
-    <img src="[https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)" alt="Twitter">
+  <a href="mailto:lucas970997@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
-    <img src="[https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email">
+  <a href="https://wa.me/31993454507" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  </p>
+</p>
+
+---
