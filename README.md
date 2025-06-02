@@ -14,14 +14,18 @@
         Sinta-se à vontade para explorar meus repositórios e projetos!
       </p>
     </td>
-    <td valign="top" width="40%" align="center">
-      <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt" target="_blank">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03aTZ5OXo3enh0bWw5bDNnbWNtM3YwbWg4d3YwNmxvMjBmb3gzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMURBbyUqF0XQI/giphy.gif" alt="Lucas Almeida - Portfólio" width="250"/>
-      </a>
-      <br>
+    <td valign="top" width="40%">
+      <div align="center"> <a href="https://master.d1vj8jvaw2xgu6.amplifyapp.com/pt" target="_blank">
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03aTZ5OXo3enh0bWw5bDNnbWNtM3YwbWg4d3YwNmxvMjBmb3gzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMURBbyUqF0XQI/giphy.gif" alt="Lucas Almeida - Portfólio" width="250"/>
+        </a>
+        <br>
+        <i>Clique no GIF para visitar meu portfólio!</i>
+      </div>
     </td>
   </tr>
 </table>
+
+---
 
 ---
 ### Minhas Habilidades e Ferramentas 🛠️
